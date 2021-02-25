@@ -1,3 +1,2 @@
-# LearninGit
-
-#Hello World! :)
+#LearninGit
+#Kia Ora World! :)
