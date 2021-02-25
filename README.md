@@ -12,6 +12,6 @@
 
 >and then this.
 
--[x] this is a completed item
+- [x] this is a complete item
 
 -[ ] this is incomplete
