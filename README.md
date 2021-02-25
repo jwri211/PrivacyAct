@@ -13,5 +13,6 @@
 >and then this.
 
 - [x] this is a complete item
-
-- [    ] this is an incomplete i
+- [ ] this is incompleted
+- [x] Done
+- [ ] To Do
