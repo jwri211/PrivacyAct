@@ -18,3 +18,8 @@
 - [ ] To Do
 
 <!-- Kia ora for your mahi in this session, this is a good effort. Do you mind sharing some of your findings with the class? -->
+
+
+{#Principle Example#
+[] Actionable item 1
+[] Actionable item 2} x 5
