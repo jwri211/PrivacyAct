@@ -15,8 +15,8 @@
 - [ ] Explain what it does with the information it gets from the user.
 
 ### Principle 2 - Source of personal information
-- [ ] Does the software need the personal information to come from the user themselves?
-  - [ ] Get the user to verify it is them giving the information via a checkbox or similar acknowledgement.
+- [ ] If the software need the personal information to come from the user, get them to verify themselves with a checkbox or similar acknowledgement.
+
 - [ ] Can the software get the personal information from another source?
   - [ ] Get the user to acknowledge they are providing information for another party. 
 
