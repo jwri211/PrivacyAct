@@ -1,4 +1,3 @@
-<!-- This is a work of fiction. Names, characters, business, events and incidents are the products of the author's imagination. Any resemblance to actual persons, living or dead, or actual events is purely coincidental. -->
 <p align="center">
   <img src="https://github.com/jwri211/LearninGit/blob/main/leg-crest.jpg"> 
 </p>
