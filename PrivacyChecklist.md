@@ -11,22 +11,24 @@
 - [ ] You may want more information about the users, clearly define what you need vs what you want.
 
 <details>
-<summary>"More information</summary>  
+<summary>More information</summary>  
   
 >*Some websites need your name and email address to send you personalised information about their products. However, they may also ask for an address, to provide   local    products, or a phone number, for an added level of security. From the point of view of your product, what is needed to function, and what is optional?*
 
 </details>
+
 
 ### Principle 2 - Source of personal information
 - [ ] Get user to verify they are providing their own information through a checkbox or similar acknowledgement.
 - [ ] Check that the information isn't being filled out automatically by other software, implement a 'Captcha' puzzle that's easy for humans to solve and hard for computers.
 
 <details>
-<summary>"More information</summary>  
+<summary>More information</summary>  
 
 > *If your product is collecting personal information it needs to be from the individual themselves. Malicious software can look like a person filling out a form, so there should be measures in place to stop this.*  
 
 </details>
+
 
 ### Principle 3 - Collection of information from subject
 - [ ] Clearly explain to the user what information you are collecting from them when they first use your software.
@@ -39,23 +41,25 @@
 
 </details>
 
+
 ### Principle 4 - Manner of collection of personal information
 - [ ] Are you gaining the information legally?
 - [ ] Are you gaining the information in a fair and unintrusive manner?
 
 <details>
-<summary>"More information</summary>  
-  
-> *Software is not allowed to gain personal information through hacking or the use of malware, or against the permissions or knowledge of the owner. *
+<summary>More information</summary>
+
+> *Software is not allowed to gain personal information through hacking or the use of malware, or against the permissions or knowledge of the owner.*
 
 </details>
+
 
 ### Principle 5 - Storage and security of personal information
 - [ ] Is a users personal account password protected against unauthorised access? Can you enforce a string password, make the user use different symbols and numbers?
 - [ ] Are there firewalls and antivirus measures in place to guard against malicious code and attacks?
 
 <details>
-<summary>"More information</summary>  
+<summary>More information</summary>  
 
 >*When your software collects personal data from people you must take all reasonable steps to protect it from unauthorised access. Discourage users from using common or easily guessed passwords, and make sure the data you have is encrypted.*
 
