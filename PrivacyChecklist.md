@@ -1,12 +1,7 @@
 <p align="center">
   <img src="https://github.com/jwri211/LearninGit/blob/main/leg-crest.jpg"> 
 </p>
-<!-- Am i allowed to use this image or is it a breach of copyright? -->
 
-<!-- I think that this is an example of both 'fair use' due your purpose in using it which is ostensibly academic. -->
-
-
-<!-- Nice work, this is ok to submit. In the real world a great deal of care goes into constructing the actionable items which are often called user stories.  -->
 ## A privacy checklist to use when developing an IT system 
 
 ### Principle 1 - Purpose of collection of personal information
